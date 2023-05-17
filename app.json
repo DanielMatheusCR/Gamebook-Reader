@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Gamebook-Reader",
+    "slug": "Gamebook-Reader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
